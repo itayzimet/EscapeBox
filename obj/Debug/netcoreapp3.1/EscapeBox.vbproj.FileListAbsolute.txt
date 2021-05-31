@@ -1,0 +1,15 @@
+C:\Users\itay_zimet\Documents\GitHub\EscapeBox\obj\Debug\netcoreapp3.1\EscapeBox.vbproj.AssemblyReference.cache
+C:\Users\itay_zimet\Documents\GitHub\EscapeBox\obj\Debug\netcoreapp3.1\EscapeBox.Form1.resources
+C:\Users\itay_zimet\Documents\GitHub\EscapeBox\obj\Debug\netcoreapp3.1\EscapeBox.vbproj.GenerateResource.cache
+C:\Users\itay_zimet\Documents\GitHub\EscapeBox\obj\Debug\netcoreapp3.1\EscapeBox.AssemblyInfoInputs.cache
+C:\Users\itay_zimet\Documents\GitHub\EscapeBox\obj\Debug\netcoreapp3.1\EscapeBox.AssemblyInfo.vb
+C:\Users\itay_zimet\Documents\GitHub\EscapeBox\obj\Debug\netcoreapp3.1\EscapeBox.vbproj.CoreCompileInputs.cache
+C:\Users\itay_zimet\Documents\GitHub\EscapeBox\bin\Debug\netcoreapp3.1\EscapeBox.exe
+C:\Users\itay_zimet\Documents\GitHub\EscapeBox\bin\Debug\netcoreapp3.1\EscapeBox.deps.json
+C:\Users\itay_zimet\Documents\GitHub\EscapeBox\bin\Debug\netcoreapp3.1\EscapeBox.runtimeconfig.json
+C:\Users\itay_zimet\Documents\GitHub\EscapeBox\bin\Debug\netcoreapp3.1\EscapeBox.runtimeconfig.dev.json
+C:\Users\itay_zimet\Documents\GitHub\EscapeBox\bin\Debug\netcoreapp3.1\EscapeBox.dll
+C:\Users\itay_zimet\Documents\GitHub\EscapeBox\bin\Debug\netcoreapp3.1\EscapeBox.pdb
+C:\Users\itay_zimet\Documents\GitHub\EscapeBox\obj\Debug\netcoreapp3.1\EscapeBox.dll
+C:\Users\itay_zimet\Documents\GitHub\EscapeBox\obj\Debug\netcoreapp3.1\EscapeBox.pdb
+C:\Users\itay_zimet\Documents\GitHub\EscapeBox\obj\Debug\netcoreapp3.1\EscapeBox.genruntimeconfig.cache

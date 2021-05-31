@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\itay_zimet\\source\\repos\\EscapeBox\\EscapeBox.vbproj": {}
+    "C:\\Users\\itay_zimet\\Documents\\GitHub\\EscapeBox\\EscapeBox.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\itay_zimet\\source\\repos\\EscapeBox\\EscapeBox.vbproj": {
+    "C:\\Users\\itay_zimet\\Documents\\GitHub\\EscapeBox\\EscapeBox.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\itay_zimet\\source\\repos\\EscapeBox\\EscapeBox.vbproj",
+        "projectUniqueName": "C:\\Users\\itay_zimet\\Documents\\GitHub\\EscapeBox\\EscapeBox.vbproj",
         "projectName": "EscapeBox",
-        "projectPath": "C:\\Users\\itay_zimet\\source\\repos\\EscapeBox\\EscapeBox.vbproj",
+        "projectPath": "C:\\Users\\itay_zimet\\Documents\\GitHub\\EscapeBox\\EscapeBox.vbproj",
         "packagesPath": "C:\\Users\\itay_zimet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\itay_zimet\\source\\repos\\EscapeBox\\obj\\",
+        "outputPath": "C:\\Users\\itay_zimet\\Documents\\GitHub\\EscapeBox\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
