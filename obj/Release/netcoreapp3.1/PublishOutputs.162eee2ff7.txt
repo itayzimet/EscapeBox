@@ -1,0 +1,5 @@
+C:\Users\itay_zimet\Documents\GitHub\EscapeBox\bin\Release\netcoreapp3.1\publish\EscapeBox.exe
+C:\Users\itay_zimet\Documents\GitHub\EscapeBox\bin\Release\netcoreapp3.1\publish\EscapeBox.dll
+C:\Users\itay_zimet\Documents\GitHub\EscapeBox\bin\Release\netcoreapp3.1\publish\EscapeBox.deps.json
+C:\Users\itay_zimet\Documents\GitHub\EscapeBox\bin\Release\netcoreapp3.1\publish\EscapeBox.runtimeconfig.json
+C:\Users\itay_zimet\Documents\GitHub\EscapeBox\bin\Release\netcoreapp3.1\publish\EscapeBox.pdb
