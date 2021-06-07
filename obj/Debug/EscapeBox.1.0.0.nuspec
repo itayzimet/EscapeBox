@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EscapeBox</id>
+    <version>1.0.0</version>
+    <authors>EscapeBox</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\itay_zimet\Documents\GitHub\EscapeBox\bin\Debug\netcoreapp3.1\EscapeBox.runtimeconfig.json" target="lib\netcoreapp3.1\EscapeBox.runtimeconfig.json" />
+    <file src="C:\Users\itay_zimet\Documents\GitHub\EscapeBox\bin\Debug\netcoreapp3.1\EscapeBox.dll" target="lib\netcoreapp3.1\EscapeBox.dll" />
+  </files>
+</package>
